@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey there 👋, feel free to check out what I've been up to!
 
-<!--
-**narutoadi/narutoadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Software Engineer building AI applications and data platforms and deploying them on cloud.
 
-Here are some ideas to get you started:
+💻 Via [Chainlyzer Solutions](https://chainlyzer.com/), I am helping companies build top-notch AI and big data products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### A bit about me:
+
+-   Nationality: 🇮🇳
+-   Personal interests: 💻 🧳 💪 💃 🏏
+-   Countries interested in visiting: 🇯🇵 🇦🇺 🇳🇿🇺🇸 🇫🇷 🇬🇧
+-   Current location: 📍 Delhi, IN
+
+🌎 Check my [portfolio](https://github.com/narutoadi)
+
+I'm always working on something, and often too excited about it to stop and update my portfolio
+
+Feel free to reach out and see what I'm up to now 💬
+
+
+<div style="padding: 25px 0;">
+     <a href="https://www.linkedin.com/in/aditi-mishra-cse/" style="padding: 8px; width: 24px; height: 24px;">
+        <img src="https://github.com/narutoadi/aditimishra/blob/master/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+    </a>
+</div>
