@@ -21,6 +21,6 @@ Feel free to reach out and see what I'm up to now 💬
 
 <div style="padding: 25px 0;">
      <a href="https://www.linkedin.com/in/aditi-mishra-cse/" style="padding: 8px; width: 24px; height: 24px;">
-        <img src="https://github.com/narutoadi/narutoadi/blob/master/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
+        <img src="https://github.com/narutoadi/narutoadi/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
     </a>
 </div>
