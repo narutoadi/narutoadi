@@ -1,9 +1,8 @@
 # Hey there 👋, feel free to check out what I've been up to!
 
-## Full Stack Software Engineer building AI applications and data platforms and deploying them on cloud.
+## I am a full Stack Software Engineer building cloud friendly AI applications and data platforms.
 
 💻 Via [Chainlyzer Solutions](https://chainlyzer.com/), I am helping companies build top-notch AI and big data products.
-
 
 
 ### A bit about me:
