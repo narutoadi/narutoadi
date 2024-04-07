@@ -2,7 +2,7 @@
 
 ## I am a full stack Software Engineer building cloud friendly AI applications and data platforms.
 
-💻 Via [Chainlyzer Solutions](https://chainlyzer.com/), I am helping companies build top-notch AI and big data products.
+💻 I am helping companies build top-notch AI and big data products.
 
 
 ### A bit about me:
